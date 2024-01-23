@@ -1,0 +1,15 @@
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.csproj.AssemblyReference.cache
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.AssemblyInfoInputs.cache
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.AssemblyInfo.cs
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.csproj.CoreCompileInputs.cache
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\bin\Debug\net7.0\OrderConsole.exe
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\bin\Debug\net7.0\OrderConsole.deps.json
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\bin\Debug\net7.0\OrderConsole.runtimeconfig.json
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\bin\Debug\net7.0\OrderConsole.dll
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\bin\Debug\net7.0\OrderConsole.pdb
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.dll
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\refint\OrderConsole.dll
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.pdb
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\OrderConsole.genruntimeconfig.cache
+C:\Users\amanda\source\repos\OrderConsole\OrderConsole\obj\Debug\net7.0\ref\OrderConsole.dll
